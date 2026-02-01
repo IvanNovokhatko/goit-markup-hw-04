@@ -120,7 +120,7 @@ button {
     width: 48px;
     height: 4px;
     background: #404BBF;
-    bottom: 0px;
+    bottom: -1px;
 }
 
 .nav-link:hover, .nav-link:focus {
